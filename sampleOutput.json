@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Israel launches 'extensive' strikes on Lebanon",
+            "description": "They come after a woman was killed and others were injured in a rocket attack on northern Israel.",
+            "url": "https://www.bbc.co.uk/news/world-middle-east-68292471",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/66CA/production/_132641362_gettyimages-2001593589.jpg",
+            "publishedAt": "2024-02-14T13:37:26.5385242Z",
+            "content": "Israel has launched an \"extensive wave of attacks\" on Lebanon after a woman was killed and others injured in a rocket attack on northern Israel.\r\nLebanese media reported that villages had been hit an… [+952 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Amazon founder Jeff Bezos sells shares worth over $4bn",
+            "description": "The multi-billionaire moved to Florida last year, which has no state tax on share sales above $250,000.",
+            "url": "https://www.bbc.co.uk/news/business-68277678",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7641/production/_132637203_gettyimages-1930527954-1.jpg",
+            "publishedAt": "2024-02-14T13:22:25.9493004Z",
+            "content": "Multi-billionaire Jeff Bezos has sold more of his shares in Amazon, bringing the total value of sales in recent days to more than $4bn (£3.2bn).\r\nThe technology giant, which Mr Bezos founded in 1994,… [+1827 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "War-weary Ukrainians endure as Russia's invasion drags on",
+            "description": "Two years into Russia's full-scale invasion, Ukrainians carry deep wounds from the fight.",
+            "url": "https://www.bbc.co.uk/news/world-europe-68285431",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D825/production/_132633355_b71762d8bad89162550e72b08bb41fa4b8d54c59.jpg",
+            "publishedAt": "2024-02-14T13:22:24.9964145Z",
+            "content": "Nearly two years since the Russian invasion of Ukraine Fergal Keane returns to Lviv station where in February and March 2022 he witnessed the biggest refugee crisis in Europe since World War Two. \r\nI… [+7930 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Hungary resignations leave Viktor Orban in biggest crisis yet",
+            "description": "Hungary is shaken by the resignations of the two most successful women in the PM's ruling Fidesz party.",
+            "url": "https://www.bbc.co.uk/news/world-europe-68285304",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1C41/production/_132633270_7f3521d03f38f5972482b5d7ff7f7f9cb120a93e0_153_2500_14071000x563.jpg",
+            "publishedAt": "2024-02-14T13:22:23.8873145Z",
+            "content": "This has become the biggest threat to Prime Minister Viktor Orban's rule since he returned to power in 2010. \r\nHungary has been shaken by the sudden resignations of the two most popular and successfu… [+5493 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Turkey mine: 'Race against time' to free workers after landslide",
+            "description": "There are also concerns chemicals from the site could spread into the nearby Euphrates River.",
+            "url": "https://www.bbc.co.uk/news/world-europe-68292469",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/438D/production/_132639271_gettyimages-2001174996.jpg",
+            "publishedAt": "2024-02-14T12:52:17.2778014Z",
+            "content": "Hundreds of rescuers are continuing their search for nine gold field workers who went missing following a landslide in eastern Turkey.\r\nRoughly 10 million cubic metres of earth fell suddenly from a g… [+3172 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Russian landing ship Caesar Kunikov sunk off Crimea, says Ukraine",
+            "description": "The landing ship Caesar Kunikov is hit in the Black Sea, according to Ukraine's armed forces.",
+            "url": "https://www.bbc.co.uk/news/world-europe-68292602",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/819F/production/_132638133_8654f41b-c408-4573-8bb2-0b75dfde3ee1.jpg",
+            "publishedAt": "2024-02-14T09:07:14.7778814Z",
+            "content": "A big Russian amphibious ship, the Caesar Kunikov, has sunk off the coast of Russian-occupied Crimea according to Ukraine's armed forces.\r\nPowerful explosions were heard early on Wednesday morning, a… [+1572 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Kelvin Kangethe: US fugitive wanted for murder re-arrested in Kenya",
+            "description": "Kelvin Kangethe escaped custody in Kenya, and is wanted by US police in connection with a murder.",
+            "url": "https://www.bbc.co.uk/news/world-africa-68291650",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E8D8/production/_132580695_kangethe2.jpg",
+            "publishedAt": "2024-02-14T07:52:13.4655852Z",
+            "content": "Kenyan police have re-arrested a fugitive murder suspect who had escaped from police custody, local media report.\r\nKelvin Kangethe, 41, is wanted by US authorities in connection with the murder of hi… [+2250 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Indonesia election: Millions head to polls in world's biggest single day election",
+            "description": "Join us as we bring you updates from our correspondents deployed across the giant archipelago nation.",
+            "url": "https://www.bbc.co.uk/news/live/world-asia-68281520",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2024-02-14T04:22:16.4980956Z",
+            "content": "The policy platforms of the three candidates do not differ greatly. President Jokowi remains hugely popular, and all three candidates have promised to continue a development-focused agenda, with only… [+1075 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Democrat Tom Suozzi wins race to replace George Santos",
+            "description": "Mr Santos put his New York district in the spotlight but this special election centred on policy.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-68291562",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11DD5/production/_132637137_84db983c-ee48-43bb-b6b8-a08eb738d959.jpg",
+            "publishedAt": "2024-02-14T03:52:12.0115808Z",
+            "content": "A Democrat has won the swing US congressional district left vacant when former Republican Congressman George Santos was expelled last December. \r\nTom Suozzi's Tuesday night victory over rival Mazi Pi… [+843 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Alejandro Mayorkas: House votes to impeach homeland security secretary",
+            "description": "The impeachment push now moves to the Democrat-controlled Senate, where it is unlikely to succeed.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-68286641",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/110C9/production/_132633896_gettyimages-1918145910.jpg",
+            "publishedAt": "2024-02-14T00:37:13.6207644Z",
+            "content": "The House of Representatives has narrowly voted to impeach Homeland Security Secretary Alejandro Mayorkas, making him the first cabinet member to face impeachment in nearly 150 years. \r\nMany Republic… [+2816 chars]"
+        }
+    ]
+}
